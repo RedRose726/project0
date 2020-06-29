@@ -1,0 +1,23 @@
+$color: black;
+
+%headings {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+h1 {
+    @extend %headings;
+    font-size: 50px;
+	color: #4c0101
+}
+h2 {
+    @extend %headings;
+    font-size: 40px;
+    color: $color;
+}
+h3{
+	 
+	 font-size: 30px;
+	 color:$color;
+
+}

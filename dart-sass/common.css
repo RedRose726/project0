@@ -1,0 +1,22 @@
+h2, h1 {
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+  color: #4c0101;
+}
+
+h2 {
+  font-size: 40px;
+  color: black;
+}
+
+h3 {
+  font-size: 30px;
+  color: black;
+}
+
+/*# sourceMappingURL=common.css.map */
